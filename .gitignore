@@ -17,3 +17,4 @@ logs/
 
 # Notebooks
 .ipynb_checkpoints/
+.env
